@@ -1,0 +1,11 @@
+﻿  d3d9hook.cpp
+G:\Projects\csgo\Windows\HantaHook\HantaHook\d3d9hook.cpp(188,53): warning C4312: 'type cast': conversion from 'uint32_t' to 'void *' of greater size
+  gui.cpp
+  HandtaHook.cpp
+  imgui_impl_win32.cpp
+G:\Projects\csgo\Windows\HantaHook\HantaHook\imgui\imgui_impl_win32.cpp(257,1): error C2556: 'LRESULT ImGui_ImplWin32_WndProcHandler(HWND,UINT,WPARAM,LPARAM)': overloaded function differs only by return type from 'long ImGui_ImplWin32_WndProcHandler(HWND,UINT,WPARAM,LPARAM)'
+G:\Projects\csgo\Windows\HantaHook\HantaHook\imgui\imgui_impl_win32.h(16): message : see declaration of 'ImGui_ImplWin32_WndProcHandler'
+G:\Projects\csgo\Windows\HantaHook\HantaHook\imgui\imgui_impl_win32.cpp(256,24): error C2371: 'ImGui_ImplWin32_WndProcHandler': redefinition; different basic types
+G:\Projects\csgo\Windows\HantaHook\HantaHook\imgui\imgui_impl_win32.h(16): message : see declaration of 'ImGui_ImplWin32_WndProcHandler'
+  pattern_finder.cpp
+  Generating Code...

@@ -1,0 +1,7 @@
+﻿  gui.cpp
+  HandtaHook.cpp
+  pattern_finder.cpp
+  d3d9hook.cpp
+  imgui_impl_win32.cpp
+  Generating Code...
+  HantaHook.vcxproj -> G:\Projects\csgo\Windows\HantaHook\Debug\HantaHook.dll
